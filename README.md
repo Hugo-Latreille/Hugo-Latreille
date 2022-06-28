@@ -24,6 +24,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  ![Javascript](https://img.shields.io/badge/Javascript-013243?style=flat-square&logo=Javascript&logoColor=yellow)
+
 </p>
 
 
@@ -32,8 +34,18 @@
 <p><a href="https://github.com/Hugo-Latreille" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hugo-latreille/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+<h3><b><samp>Portfolio:</samp></b></h3>
+<p>Codé avec React / Express, sans librairie </p>
+  
+<img align="right" src="https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/Screenshot_110.png" width="40%"/>
+<br><br>
+<span>
+<a href="https://hugolatreilleportfolio.herokuapp.com/">
+  <strong><p>[ - Portfolio - ]</strong></p>
+</a><br>
+</span>
 
 
 
-![](https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/Screenshot_110.png)
+
 
