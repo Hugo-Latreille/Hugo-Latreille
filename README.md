@@ -39,7 +39,7 @@
 <img align="right" src="https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/Screenshot_110.png" width="40%"/>
 <br><br>
 <span>
-<a href="https://hugolatreilleportfolio.herokuapp.com/" target="_blank>
+<a href="https://hugolatreilleportfolio.herokuapp.com/" target="_blank">
   <strong><p>[ - Portfolio - ]</strong></p>
 </a><br>
 </span>
