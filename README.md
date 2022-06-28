@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/avataaars.svg" alt="Hugo Latreille" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Latreille&show_icons=true&theme=graywhite" alt="Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-latreille&show_icons=true&locale=en&layout=compact" alt="hugo-latreille" />
 </p>
-p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-latreille&show_icons=true&locale=en&layout=compact" alt="hugo-latreille" /></p>
+
 
 
 🌱 Ancien libraire et journaliste, je suis avec passion la formation Développeur JavaScript FullStack de l'école O'clock pour 6 mois.
