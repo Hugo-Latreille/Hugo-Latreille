@@ -4,13 +4,13 @@
 <p align="center">
   <img src="https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/avataaars.svg" alt="Hugo Latreille" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Latreille&show_icons=true&theme=graywhite" alt="Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-latreille&show_icons=true&locale=en&layout=compact" alt="hugo-latreille" />
-</p>
+  </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-latreille&show_icons=true&locale=en&layout=compact" alt="hugo-latreille" /></p>
 
 
 🌱 Ancien libraire et journaliste, je suis avec passion la formation Développeur JavaScript FullStack de l'école O'clock pour 6 mois.
-📫 Mon portfolio: https://hugolatreilleportfolio.herokuapp.com/
+
 
 
 <h3>Ce que je sais utiliser : </h3>
@@ -24,6 +24,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=flat-square&logo=javascript&logoColor=white" />
+  
   
 </p>
 
