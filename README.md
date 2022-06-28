@@ -5,6 +5,7 @@
   <img src="https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/avataaars.svg" alt="Hugo Latreille" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Latreille&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
+p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-latreille&show_icons=true&locale=en&layout=compact" alt="hugo-latreille" /></p>
 
 
 🌱 Ancien libraire et journaliste, je suis avec passion la formation Développeur JavaScript FullStack de l'école O'clock pour 6 mois.
@@ -23,6 +24,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
 
 <h3>Où me trouver : </h3>
 <p><a href="https://github.com/Hugo-Latreille" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hugo-latreille/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
