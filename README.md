@@ -24,8 +24,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  ![Javascript](https://img.shields.io/badge/Javascript-013243?style=flat-square&logo=Javascript&logoColor=yellow)
-
+  
 </p>
 
 
@@ -40,7 +39,7 @@
 <img align="right" src="https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/Screenshot_110.png" width="40%"/>
 <br><br>
 <span>
-<a href="https://hugolatreilleportfolio.herokuapp.com/">
+<a href="https://hugolatreilleportfolio.herokuapp.com/" target="_blank>
   <strong><p>[ - Portfolio - ]</strong></p>
 </a><br>
 </span>
