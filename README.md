@@ -35,4 +35,5 @@
 
 
 
-![Cover](https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/Screenshot_110.png)
+![](https://github.com/Hugo-Latreille/Hugo-Latreille/blob/main/Screenshot_110.png)
+
