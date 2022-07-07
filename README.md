@@ -1,14 +1,11 @@
-### Hello, je suis Hugo 👋
+### 👋 Hello, je suis Hugo 
 
 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=Hugo-Latreille&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Latreille&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Latreille&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Latreille&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Latreille&theme=react&hide_border=false" alt="Github Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Latreille&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Github Stats" />
   </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-latreille&show_icons=true&locale=en&layout=compact" alt="hugo-latreille" style="margin-right: 20px"/></p>
-
 
 🌱 Ancien libraire et journaliste, je suis avec passion la formation Développeur JavaScript FullStack de l'école O'clock pour 6 mois.
 
@@ -25,7 +22,11 @@
 
 
 <h3> 🌐 Où me trouver : </h3>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/HL84#4402) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-latreille) 
+<p>
+  <a href="htttps://discord.gg/HL84#4402"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord"/> <a/>
+  <a href="https://linkedin.com/in/hugo-latreille"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/> <a/>
+
+
 
 <h3><b><samp>Portfolio:</samp></b></h3>
 <p>Codé avec React / Express, sans librairie </p>
@@ -37,3 +38,5 @@
   <strong><p>[ - Portfolio - ]</strong></p>
 </a><br>
 </span>
+
+
